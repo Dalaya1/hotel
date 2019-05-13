@@ -3,8 +3,7 @@
 function seConnecter(){
             $serveur='mysql:host=localhost';
             $bdd='dbname=bdtandreozzi6';   		
-            $user='sqltandreozzi' ;    		546
-		    4
+            $user='sqltandreozzi' ;  
             $mdp='savary' ;
             try
                 {
